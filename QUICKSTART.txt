@@ -1,0 +1,12 @@
+TCP FILE TRANSFER - QUICK START GUIDE
+
+QUICK START:
+1. Install Python 3.6+
+2. Install colorama: pip install colorama
+3. Run server: python server.py
+4. Run client: python client.py
+5. Use the menu to transfer files
+
+ALTERNATIVE:
+- Double-click run_server.bat
+- Double-click run_client.bat

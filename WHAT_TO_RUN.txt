@@ -1,0 +1,16 @@
+TCP FILE TRANSFER - WHAT TO RUN
+
+MAIN PROGRAMS:
+• server.py - TCP server application
+• client.py - TCP client application
+
+SCRIPTS:
+• run_server.bat - Windows batch to start server
+• run_client.bat - Windows batch to start client
+
+DEPENDENCIES:
+• requirements.txt - Python packages needed
+
+DOCUMENTATION:
+• README.txt - Full project documentation
+• Other .txt files - Additional guides
