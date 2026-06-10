@@ -1,0 +1,18 @@
+TCP FILE TRANSFER FEATURES
+
+CORE FEATURES:
+✓ TCP Socket Programming
+✓ Client-Server Architecture
+✓ File Upload/Download
+✓ Progress Tracking
+✓ Error Handling
+✓ Multi-threading
+✓ Connection Timeout
+✓ Input Validation
+
+ADVANCED FEATURES:
+✓ File Listing
+✓ File Information
+✓ Directory Operations
+✓ Colored Interface
+✓ Popup Notifications
