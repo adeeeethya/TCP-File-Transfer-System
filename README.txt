@@ -4,15 +4,15 @@ A Python-based client-server application that enables reliable file transfer and
 
 ## Features
 
-- File upload
-- File download
-- List files on the server
-- Rename files
-- Delete files
-- Create directories
-- Multithreaded server
-- Error handling and connection timeouts
-- Transfer progress display
+-  File upload
+-  File download
+-  List files on the server
+-  Rename files
+-  Delete files
+-  Create directories
+-  Multithreaded server
+-  Error handling and connection timeouts
+-  Transfer progress display
 
 ## Technologies Used
 
@@ -38,7 +38,7 @@ TCP-File-Transfer-System/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/TCP-File-Transfer-System.git
+git clone https://github.com/adeeeethya/TCP-File-Transfer-System.git
 cd TCP-File-Transfer-System
 ```
 
@@ -67,4 +67,7 @@ python client.py
 - Python 3.x
 
 ## Author
-Adithya Balaji Sekhar
+
+**Adithya Balaji Sekhar**
+
+GitHub: https://github.com/adeeeethya
